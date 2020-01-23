@@ -42,7 +42,7 @@ Excecuite the  class :"APITest" (src/test/java/backEnd/APITest.java) on line 26 
 The String variable  "item" can be edited in orther to change the item we want to search.
 
 
-Expected result : Script should print  the URL used, api response coide , limit of items listed and amount of items found. Also it will print all titel of items found. 
+Expected result : Script should print  the URL used, api response coide , limit of items listed and amount of items found. Also it will print all titels of items retrived. 
 
 
 
