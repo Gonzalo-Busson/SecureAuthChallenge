@@ -4,9 +4,9 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 In this challenge you would find :
-    -FrontEnd : 3 automated scenarios
-    -BackEnd : GET an API response
-    -Gerking: create 5 scenarios for https://www.ebay.com/
+- FrontEnd : 3 automated scenarios
+- BackEnd : GET an API response
+- Gerking: create 5 scenarios for https://www.ebay.com/
     
 
 ### Installation
