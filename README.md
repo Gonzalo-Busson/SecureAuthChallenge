@@ -26,23 +26,23 @@ Chrome:(https://www.google.com.mx/chrome/?brand=CHBD&gclid=Cj0KCQiApaXxBRDNARIsA
 Feature folder located on (src/test/java/features), writen in BDD using cucumber library 
 
 ##### Frontend Challenge
-Excecuite the  class :"TestSuite" (src/test/java/TestSuite.java) on line 16 in orther to perform the 3 frontEnd Automated test. 
+Execute the  class :"TestSuite" (src/test/java/TestSuite.java) on line 16 in order to perform the 3 frontEnd Automated test. 
 
 Scenarios developed : 
 - Search an item
-- Vaidate notification component was displayed 
-- Calidate Offers Carousel
+- Validate notification component was displayed 
+- Validate Offers Carousel
 
 ##### Backend Challenge
 
-Excecuite the  class :"APITest" (src/test/java/backEnd/APITest.java) on line 26 in orther to perform the  backEnd  Automated test. 
+Execute the  class :"APITest" (src/test/java/backEnd/APITest.java) on line 26 in order to perform the  BackEnd  Automated test. 
 
 
 ###### manipulation of the item search :
-The String variable  "item" can be edited in orther to change the item we want to search.
+The String variable  "item" can be edited in order to change the item we want to search.
 
 
-Expected result : Script should print  the URL used, api response coide , limit of items listed and amount of items found. Also it will print all titels of items retrived. 
+Expected result : Script should print  the URL used, api response coide , limit of items listed and amount of items found. Also it will print all titles of items retrieved. 
 
 
 
