@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class DriverFactory {
     public static WebDriver open() {
-            System.setProperty("webdriver.chrome.driver","/Users/gonzalobusson/Downloads/eBayAutomation/chromedriver 2");
+            System.setProperty("webdriver.chrome.driver","chromedriver 2");
             return new ChromeDriver();
     }
 }
