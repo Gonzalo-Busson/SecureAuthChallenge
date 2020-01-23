@@ -18,6 +18,7 @@ In this challenge you would find :
 
 ### Important!! 
 Respository use Chrome v.79 Driver, in case the user is using other Chrome version the front-end scenarios will fail.
+Chrome:(https://www.google.com.mx/chrome/?brand=CHBD&gclid=Cj0KCQiApaXxBRDNARIsAGFdaB_W9SyMR5KStuUh1KwYCHnycJwCuW-zD67d_IJdr_S_oAyOsRAQuj8aAsFeEALw_wcB&gclsrc=aw.ds)
 
 ### Running the Tests
 
